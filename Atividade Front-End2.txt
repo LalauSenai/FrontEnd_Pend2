@@ -1,0 +1,3 @@
+let data = new Date();
+console.log(data.toLocaleDateString("pt-BR")); // Data.
+console.log(data.toLocaleTimeString("pt-BR")); // Horas,minutos e segundos.
